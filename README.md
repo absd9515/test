@@ -1,3 +1,3 @@
-<audio controls>
-  <source src="win.mp3" type="audio/mpeg">
-</audio>
+<body>
+<audio src="win.mp3" controls loop 
+</body>
