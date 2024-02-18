@@ -1,4 +1,4 @@
-<video src="qusss.mp4" autoplay
+<audio src="win.mp3" controls loop 
 
 </html><meta charset="utf-8/"
     <title>Easy Full Screen Lading Page</title>
